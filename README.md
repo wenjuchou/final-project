@@ -1,4 +1,4 @@
-# final-1
-https://littlelittleany.github.io/final-1-main/
+# final-project
+https://wenjuchou.github.io/final-project/.
 
-collaborated wich Ruby Chou <3
+collaborated wich Anny Wu <3
