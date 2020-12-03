@@ -1,4 +1,4 @@
 # final-project
 https://wenjuchou.github.io/final-project/.
 
-collaborated with Anny Wu <3
+Ruby Chou and Anny Wu's Collaboration
